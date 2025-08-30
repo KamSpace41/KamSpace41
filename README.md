@@ -1,6 +1,6 @@
 # Привет, я KamSpace41! 👋 Будущий Java-разработчик
 
-<img src="https://github.com/KamSpace41/KamSpace41/blob/main/assets/image.jpg"  width="250" style="border-radius: 50%;"/>
+<img src="https://raw.githubusercontent.com/KamSpace41/KamSpace41/main/assets/image.jpg"  width="250" style="border-radius: 50%;"/>
 
 ### Обо мне
 
